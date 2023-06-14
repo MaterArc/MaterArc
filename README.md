@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=materarc&label=Profile%20views&color=0e75b6&style=flat" alt="materarc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=materarc" alt="materarc" /></a> </p>
-
 - 🔭 I’m currently working on [ScratchTools Features](https://www.scratchtools.app/)
 
 - 🌱 I’m currently learning **Javascript, React, Angular, NodeJS**
