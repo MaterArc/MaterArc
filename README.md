@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=materarc&label=Profile%20views&color=0e75b6&style=flat" alt="materarc" /> </p>
 
-- 🔭 I’m currently working on [ScratchTools Features](https://www.scratchtools.app/)
+- 🔭 I’m currently working on **coding**
 
 - 🌱 I’m currently learning **Javascript, React, Angular, NodeJS**
 
