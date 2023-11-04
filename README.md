@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, Angular, NodeJS**
 
-- ⛳ Hobbies **Coding, Basketball, Running**
+- ⛳ Hobbies **Coding, Basketball, Running, Picklball, and Designing**
 
 - 💬 Ask me about **anything**
 
